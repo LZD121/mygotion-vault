@@ -1,0 +1,36 @@
+{
+  "id": "b7dab21b-17ce-48e3-ba41-3b5ca90e4527",
+  "title": "Untitled Database",
+  "columns": [
+    {
+      "id": "title",
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "id": "status",
+      "name": "Status",
+      "type": "checkbox"
+    },
+    {
+      "id": "tags",
+      "name": "Tags",
+      "type": "select",
+      "options": [
+        {
+          "id": "opt-1",
+          "name": "Planning",
+          "color": "blue"
+        },
+        {
+          "id": "opt-2",
+          "name": "Done",
+          "color": "green"
+        }
+      ]
+    }
+  ],
+  "rowIds": [],
+  "createdAt": 1792340492681,
+  "updatedAt": 1792340492681
+}
